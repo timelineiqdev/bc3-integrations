@@ -1,4 +1,4 @@
-# Categories
+#. Categories
 # ----------
 #
 # 1 - Mobile and Desktop Apps
@@ -12,6 +12,12 @@
 # 9 - Developer-only Tools
 #
 -
+  name:"BSync"
+  description: "Sync with Salesforce. Bring Basecamp Porjects, Todo Lists and Tasks directly into Salesforce."
+  website:"http://timelineiq.com/basecamp-salesforce-integration-sync-connect.html"
+  icon: "bsync.png"
+  category: 3
+ -
   name: "Tick"
   description: "Straightforward time tracking for Basecamp. Add timers to your To-Dos."
   website: "https://www.tickspot.com/basecamp"
