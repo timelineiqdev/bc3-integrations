@@ -1,4 +1,4 @@
-#. Categories
+# Categories
 # ----------
 #
 # 1 - Mobile and Desktop Apps
@@ -13,7 +13,7 @@
 #
 -
   name:"BSync"
-  description: "Sync with Salesforce. Bring Basecamp Porjects, Todo Lists and Tasks directly into Salesforce."
+  description: "Sync with Salesforce. Bring Basecamp Projects, Todo Lists and Tasks directly into Salesforce."
   website:"http://timelineiq.com/basecamp-salesforce-integration-sync-connect.html"
   icon: "bsync.png"
   category: 3
